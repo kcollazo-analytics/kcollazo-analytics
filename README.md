@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome👋 
+
+I am a detail-oriented professional pivoting into Data Analytics. Combining a strong foundation in data manipulation with real-world business operations experience. 
+
+My time in retail has helped me develop a natural eye for identifying inventory patterns and customer trends. As I gained more knowledge about the behavior of our customer base I was able to increase sales in my sub-department. 
+
+My time in the education industry allowed me to get comfortable with online tools. This includes google workspace, quickschools, APEX learning, and the internal school database systems. Being able to manage the storage, organization, and retrieval of the necessary data allowed me to assist my students by planning out the most efficient route towards graduation while taking into account their specific needs. 
+
+To build on this, I have mastered tools like SQL, Excel, and Tableau through further study. Now I am looking to bring these skills to a data analyst role. 
+
 
 <!--
 **kcollazo-analytics/kcollazo-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
